@@ -1,0 +1,37 @@
+.bg-container{
+    background-image: url("https://wallpaperaccess.com/full/202978.jpg");
+    background-size:cover;
+    height:100vh;
+}
+.heading{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 30px;
+    text-align:center;
+}
+.inputTemp{
+    width:260px;
+    height:37px;
+    padding-left:10px;
+    margin-bottom: 40px;
+}
+.label1{
+    color:white;
+    font-size:20px;
+}
+.Select1{
+    margin-bottom: 40px;
+    height:37px !important;
+}
+.Select2{
+    width:260px !important;
+    height:37px !important;
+    margin-bottom: 40px;
+}
+.button{
+    margin-bottom: 40px;
+}
+.finalPara{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
